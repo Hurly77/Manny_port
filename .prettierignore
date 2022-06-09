@@ -1,0 +1,5 @@
+.next
+/node_modules
+/components/icons.js
+deprecated-pages
+docs
